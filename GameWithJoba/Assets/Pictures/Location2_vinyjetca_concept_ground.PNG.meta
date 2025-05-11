@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Location2_vinyjetca_concept_ground_0: -8658565245094575878
+      Location2_vinyjetca_concept_ground_1: -3972658399897113737
+      Location2_vinyjetca_concept_ground_2: 8626381367233207706
+      Location2_vinyjetca_concept_ground_3: 4497454023097084238
+      Location2_vinyjetca_concept_ground_4: -1256869373316255729
+      Location2_vinyjetca_concept_ground_5: 729312970519401495
+      Location2_vinyjetca_concept_ground_6: 1029042470341431464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

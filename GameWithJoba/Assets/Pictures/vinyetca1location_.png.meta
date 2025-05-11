@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vinyetca1location__0: -8901719880636529504
+      vinyetca1location__1: 4348293181802815748
+      vinyetca1location__2: -5837320337486037730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
